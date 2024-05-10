@@ -8,13 +8,13 @@
 3、能够针对性设计Genetic Algorithm对五个基本组合优化问题进行求解，在小规模测试数据上和最优解对比gap；在大规模测试数据上求解五个问题；测试数据见github仓库连接：https://github.com/oldsunsir/buaa_opt_learn
 
 # 示意
-## 1、single allocation p-hub median problem
+## 1、Single allocation p-hub median problem
 
 单一分配P-Hub中位数问题（Single-Allocation P-Hub Median Problem）是一个组合优化问题，主要应用于运输和物流网络规划中。该问题涉及到确定一个最优的仓库（hub）位置，以便最小化货物运输的总成本或最大化网络的效率。
 
-## 2、TSP
+## 2、TSP（Traveling Salesman Problem）
 
-旅行商问题，又称TSP问题（Traveling Salesman Problem）。
+旅行商问题，又称TSP问题。假设有一个旅行商人要拜访N个城市,他必须选择所要走的路径,路径的限制是每个城市只能拜访一次,而且最后要回到原来出发的城市。路径的选择目标是要求得的路径路程为所有路径之中的最小值。
 
 ## 3、CVRP（capacitated VRP）
 
