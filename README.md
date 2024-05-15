@@ -1,5 +1,4 @@
-# Self_Opt_learn
-学习计划
+# Self_Opt_learn 学习计划
 ## 5月1日-5月20日
 1、熟悉掌握single allocation p-hub median problem 、TSP、CVRP（capacitated VRP）、MDVRP（multi-depot VRP）、VRPTW（VRP with time window）五个基本组合优化问题的定义，能够写出数学模型，能够对着数学模型中的目标函数、约束条件解释其物理意义；
 
