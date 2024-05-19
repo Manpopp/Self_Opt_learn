@@ -19,6 +19,9 @@
 
 ![Equation](https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png)
 
+<div align="center">
+  <img src="https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png" alt="Description" width="500">
+</div>
 
 
 ## 3、CVRP（capacitated VRP）
