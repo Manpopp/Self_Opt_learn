@@ -15,7 +15,7 @@
 
 旅行商问题，又称TSP问题。假设有一个旅行商人要拜访N个城市,他必须选择所要走的路径,路径的限制是每个城市只能拜访一次,而且最后要回到原来出发的城市。路径的选择目标是要求得的路径路程为所有路径之中的最小值。
 
-![Equation](https://latex.codecogs.com/svg.image?\begin{equation*}\begin{array}{c&space;c}\mathrm{min}&z=\sum&space;_{i}\sum&space;_{j}c_{ij}x_{ij}\\\mathrm{s.t}.&\sum&space;_{i=1}^{i=N}x_{ij}=1\;(\mathrm{for}\;j=1,2,...,N)\\&\sum&space;_{j=1}^{j=N}x_{ij}=1\;(\mathrm{for}\;i=1,2,...,N)\\&\mu&space;_{i}-\mu&space;_{j}&plus;Nx_{ij}\leq&space;N-1\;(\mathrm{for}\;i\neq&space;j;i=2,...,N;j=2,...,N)\\&\mathrm{All}\;x_{ij}=0\;\mathrm{or}\;1,\mathrm{All}\;\mu&space;_{j}\geq&space;0\end{array}\end{equation*})
+[![Equation](https://latex.codecogs.com/svg.image?\begin{equation*}\begin{array}{c&space;c}\mathrm{min}&z=\sum&space;_{i}\sum&space;_{j}c_{ij}x_{ij}\\\mathrm{s.t}.&\sum&space;_{i=1}^{i=N}x_{ij}=1\;(\mathrm{for}\;j=1,2,...,N)\\&\sum&space;_{j=1}^{j=N}x_{ij}=1\;(\mathrm{for}\;i=1,2,...,N)\\&\mu&space;_{i}-\mu&space;_{j}&plus;Nx_{ij}\leq&space;N-1\;(\mathrm{for}\;i\neq&space;j;i=2,...,N;j=2,...,N)\\&\mathrm{All}\;x_{ij}=0\;\mathrm{or}\;1,\mathrm{All}\;\mu&space;_{j}\geq&space;0\end{array}\end{equation*})](https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png)
 
 ## 3、CVRP（capacitated VRP）
 
