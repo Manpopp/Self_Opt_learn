@@ -59,6 +59,13 @@
 约束条件：车辆行驶距离约束，重量约束；<br>
 已知信息：配送中心位置、客户点位置、客户点需求、车辆最大载重、车辆最大行驶距离、车辆启动成本、车辆单位距离行驶成本；<br>
 
+### 3.3 数学模型
+
+符号说明：
+<div align="center">
+  <img src="https://github.com/Manpopp/Self_Opt_learn/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/20210427135610157.jpg" alt="Example Image" width="600">
+</div>
+
 
 ## 4、MDVRP（multi-depot VRP）
 
