@@ -19,7 +19,7 @@
   <img src="https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png" alt="Description" width="500">
 </div>
 
-https://latex.codecogs.com/svg.image?c_{ij} 是各个城市点之间的距离
+![Equation](https://latex.codecogs.com/svg.image?c_{ij}) 是各个城市点之间的距离
 
 
 ## 3、CVRP（capacitated VRP）
