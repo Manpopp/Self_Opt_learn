@@ -66,6 +66,12 @@
   <img src="https://github.com/Manpopp/Self_Opt_learn/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/20210427135610157.jpg" alt="Example Image" width="600">
 </div>
 
+数学模型：
+<div align="center">
+  <img src="https://github.com/Manpopp/Self_Opt_learn/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/20210427135634136.jpg" alt="Example Image" width="600">
+</div>
+
+
 
 ## 4、MDVRP（multi-depot VRP）
 
