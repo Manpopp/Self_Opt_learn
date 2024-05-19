@@ -8,15 +8,15 @@
 
 # GA算法学习参考
 ## 1、[交叉算子（动画演示）](https://blog.csdn.net/hba646333407/article/details/103349279)
-单点交叉（Single-point crossover）
-两点交叉（Two-points crossover）
-多点交叉（Multi-point crossover）
-部分匹配交叉（Partially-matched crossover，PMX）
-均匀交叉（Uniform crossover）
-顺序交叉（Order Crossover，OX）
-基于位置的交叉（Position-based Crossover，PBX）
-基于顺序的交叉（Order-Based Crossover，OBX）
-循环交叉（Cycle Crossover，CX）
+单点交叉（Single-point crossover）<br>
+两点交叉（Two-points crossover）<br>
+多点交叉（Multi-point crossover）<br>
+部分匹配交叉（Partially-matched crossover，PMX）<br>
+均匀交叉（Uniform crossover）<br>
+顺序交叉（Order Crossover，OX）<br>
+基于位置的交叉（Position-based Crossover，PBX）<br>
+基于顺序的交叉（Order-Based Crossover，OBX）<br>
+循环交叉（Cycle Crossover，CX）<br>
 子路径交叉交叉（Subtour Exchange Crossover，SEX）
 
 # 实例
