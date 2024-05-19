@@ -19,7 +19,7 @@
   <img src="https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png" alt="Description" width="500">
 </div>
 
-![Equation](https://latex.codecogs.com/svg.image?c_{ij}) 是各个城市点之间的距离。 ![Equation](https://latex.codecogs.com/svg.image?x_{ij}) 表示是否选择这个城市。
+![Equation](https://latex.codecogs.com/svg.image?c_{ij}) 是各个城市点之间的距离。 ![Equation](https://latex.codecogs.com/svg.image?x_{ij}) 表示是否选择这个城市。最后一个不等式约束的含义解释如下：
 
 <div align="center">
   <img src="https://github.com/Manpopp/Self_Opt_learn/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519122526.png" alt="Example Image" width="600">
