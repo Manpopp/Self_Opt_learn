@@ -14,6 +14,9 @@
 ## 2、TSP（Traveling Salesman Problem）
 
 旅行商问题，又称TSP问题。假设有一个旅行商人要拜访N个城市,他必须选择所要走的路径,路径的限制是每个城市只能拜访一次,而且最后要回到原来出发的城市。路径的选择目标是要求得的路径路程为所有路径之中的最小值。
+
+<img src="https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png" alt="Description" width="200">
+
 ![Equation](https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png)
 
 
