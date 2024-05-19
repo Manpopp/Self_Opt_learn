@@ -6,7 +6,9 @@
 
 3、能够针对性设计Genetic Algorithm对五个基本组合优化问题进行求解，在小规模测试数据上和最优解对比gap；在大规模测试数据上求解五个问题；测试数据见github仓库连接：https://github.com/oldsunsir/buaa_opt_learn
 
-# 示意
+# GA算法学习参考
+交叉算子（动画演示）：[链接文本](https://blog.csdn.net/hba646333407/article/details/103349279)
+# 实例
 ## 1、Single allocation p-hub median problem
 
 单一分配P-Hub中位数问题（Single-Allocation P-Hub Median Problem）是一个组合优化问题，主要应用于运输和物流网络规划中。该问题涉及到确定一个最优的仓库（hub）位置，以便最小化货物运输的总成本或最大化网络的效率。
