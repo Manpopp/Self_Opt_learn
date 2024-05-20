@@ -80,3 +80,7 @@
 ## 5、VRPTW（VRP with time window）
 
 有时间窗车辆路径问题（vehicle routing problems with time windows，VRPTW）车辆路线问题（VRP）最早是由Dantzig和Ramser于1959年首次提出，它是指一定数量的客户，各自有不同数量的货物需求，配送中心向客户提供货物，由一个车队负责分送货物，组织适当的行车路线，目标是使得客户的需求得到满足，并能在一定的约束下，达到诸如路程最短、成本最小、耗费时间最少等目的。
+
+[遗传算法（GA）求解带时间窗的车辆路径（VRPTW）问题MATLAB代码](https://mp.weixin.qq.com/s?__biz=MzU2NDc1MTE3Mg==&mid=2247485520&idx=1&sn=294805dfcc471e2813a0da8388999594&chksm=fc47767bcb30ff6d013796a2382046d0d09778f61bd54b84802b6bb16f48c0b1c29e6117b6ab&scene=21#wechat_redirect)
+
+
