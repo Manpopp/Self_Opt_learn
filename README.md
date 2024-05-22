@@ -75,7 +75,7 @@
 
 ## 4、MDVRP（multi-depot VRP）
 
-多中心车辆路径规划(Multi-Depot Vehicle Routing Problem，MDVRP)是指在一个区域内有多个中心场地和一定数量的客户点，需要派遣车辆从中心场地出发，分别到达客户点进行服务，最终回到相应的中心场地。该问题是一个NP困难问题，因此需要有效的求解算法。
+多车场车辆路径规划(Multi-Depot Vehicle Routing Problem，MDVRP)是指在一个区域内有多个中心场地和一定数量的客户点，需要派遣车辆从中心场地出发，分别到达客户点进行服务，最终回到相应的中心场地。该问题是一个NP困难问题，因此需要有效的求解算法。
 
 ## 5、VRPTW（VRP with time window）
 
