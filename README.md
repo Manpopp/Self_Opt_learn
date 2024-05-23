@@ -80,7 +80,8 @@
 ### 4.1、参考资源
 
 【1】邹彤,李宁,孙德宝,等. 多车场车辆路径问题的遗传算法[J]. 计算机工程与应用,2004,40(21):82-83. DOI:10.3321/j.issn:1002-8331.2004.21.025.
-【2】[多车场路径优化丨遗传算法求解MDCVRP问题]( https://blog.csdn.net/weixin_53924466/article/details/132611846?ops_request_misc=&request_id=&biz_id=102&utm_term=MDVRP%20%20%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%20GA&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-132611846.142^v100^pc_search_result_base9&spm=1018.2226.3001.4187)
+【2】Surekha P, Sumathi S. Solution to multi-depot vehicle routing problem using genetic algorithms[J]. World Applied Programming, 2011, 1(3): 118-131.
+【3】[多车场路径优化丨遗传算法求解MDCVRP问题]( https://blog.csdn.net/weixin_53924466/article/details/132611846?ops_request_misc=&request_id=&biz_id=102&utm_term=MDVRP%20%20%E9%81%97%E4%BC%A0%E7%AE%97%E6%B3%95%20GA&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-1-132611846.142^v100^pc_search_result_base9&spm=1018.2226.3001.4187)
 
 ## 5、VRPTW（VRP with time window）
 
