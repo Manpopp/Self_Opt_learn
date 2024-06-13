@@ -100,4 +100,6 @@
 
 【2】[（知乎）遗传算法（GA）求解VRPTW问题（附MATLAB代码）](https://www.zhihu.com/column/p/116115831)
 
+【3】[（微信）遗传算法（GA）求解VRPTW问题MATLAB代码讲解（中）](https://mp.weixin.qq.com/s?__biz=MzU2NDc1MTE3Mg==&mid=2247485502&idx=1&sn=a21a95b5d73e81b66d49f478513cb245&chksm=fc477615cb30ff0336d186ab6d6880e100739086393926d9a6edbc1e4a46596255fd6dbe97fc&cur_album_id=1337006342028083200&scene=189#wechat_redirect)
+
 
