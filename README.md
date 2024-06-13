@@ -18,6 +18,8 @@
 基于顺序的交叉（Order-Based Crossover，OBX）<br>
 循环交叉（Cycle Crossover，CX）<br>
 子路径交叉交叉（Subtour Exchange Crossover，SEX）
+[边重组交叉 ERX ( edge recombination crossover)](https://download.csdn.net/blog/column/12377546/135245854)
+
 ## 2、[GA算法中各种选择策略解释与代码](https://www.cnblogs.com/zywnnblog/p/15988325.html)
 
 # 实例
