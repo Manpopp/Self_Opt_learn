@@ -32,7 +32,7 @@
 旅行商问题，又称TSP问题。假设有一个旅行商人要拜访N个城市,他必须选择所要走的路径,路径的限制是每个城市只能拜访一次,而且最后要回到原来出发的城市。路径的选择目标是要求得的路径路程为所有路径之中的最小值。
 
 <div align="center">
-  <img src="https://quicklatex.com/cache3/3d/ql_f63bc0257e8c29c866d672dc2d17a43d_l3.png" alt="Description" width="500">
+  <img src="https://github.com/Manpopp/Self_Opt_learn/blob/main/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%9B%BE%E7%89%871.png" alt="Description" width="500">
 </div>
 
 ![Equation](https://latex.codecogs.com/svg.image?c_{ij}) 是各个城市点之间的距离。 ![Equation](https://latex.codecogs.com/svg.image?x_{ij}) 表示是否选择这个城市。最后一个不等式约束的含义解释如下：
